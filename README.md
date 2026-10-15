@@ -1,8 +1,8 @@
-System Guardian 🛡️
+  System Guardian 
 System Guardian is a cross‑platform Python security auditing tool that analyzes system processes, open ports, firewall status, file permissions, and log activity.
 It generates a detailed Markdown security report and includes an optional Tkinter graphical interface for one‑click scanning.
 
-🚀 Features
+  Features
 Top CPU/RAM processes overview
 
 Detection of suspicious executables and unsafe locations
